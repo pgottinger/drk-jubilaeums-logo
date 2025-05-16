@@ -13,5 +13,5 @@ Add a new HTML element into (each) page you want to change the default DRK logo 
 </script>
 ```
 
-Result:
+## Result
 ![image](https://github.com/user-attachments/assets/abdb51a8-ecac-417d-a55e-dd29ea9c2bb3)
