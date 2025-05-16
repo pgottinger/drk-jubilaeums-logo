@@ -3,7 +3,7 @@
 ## Adding a custom logo to DRK CMS
 
 * Create your logo as SVG file in a size of 369 x 59 pixels
-* Open the SVG file in a text editor and remove the <xml> and <svg> tag (also the closing one)
+* Open the SVG file in a text editor and remove the ``<xml>``, ``<svg>`` and ``</svg>`` tag
 * Replace all ``"`` by ``\"`` to escape the quotes
 
 Add a new HTML element into (each) page you want to change the default DRK logo and add this snippet:
