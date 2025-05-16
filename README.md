@@ -2,7 +2,7 @@
 
 ## Adding a custom logo to DRK CMS
 
-* Create your logo as SVG file
+* Create your logo as SVG file in a size of 369 x 59
 * Open the SVG file in a text editor and remove the <xml> and <svg> tag (also the closing one)
 * Replace all ``"`` by ``\"`` to escape the quotes
 
